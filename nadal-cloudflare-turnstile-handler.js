@@ -17,7 +17,7 @@
 // ========================================
 const FORM_CONFIG = {
   // Worker URL - Update this to your deployed worker
-  workerUrl: "https://nadalsa.com/",
+  workerUrl: "https://spam-bot-detector.saintrac.workers.dev/",
 
   // Form Selectors & Attributes
   formSelector: "form[cf-form]",
